@@ -12,7 +12,6 @@ button {
     font-size: 1.2em;
     border-style: groove;
     border-radius: 25%;
-    /*background-color: #d6e0f5;*/
 }
 
 
@@ -59,7 +58,6 @@ button:hover {
     text-align: right;
     padding: 10px;
     font-size: 25px;
-    /*border: 1px solid #193366;*/
     background-color: lightcoral;
 }
 
